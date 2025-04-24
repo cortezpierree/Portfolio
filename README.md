@@ -13,7 +13,7 @@ You can find me on LinkedIn, Instagram, and Twitter
 ### Education 
 BS.B.B.B Biology/Health
 Loyola University Maryland 
-<img width="1680" alt="image" src="https://github.com/user-attachments/assets/68f420d1-9118-48b5-ab43-2983e54d47a1" />
+
 
 ***
 ### Projects
@@ -21,7 +21,7 @@ Loyola University Maryland
 
 #### Bi-Weekly Timesheet 
  - Project 1 Summary
- - [insert project 1 screenshot here]
+ <img width="1680" alt="image" src="https://github.com/user-attachments/assets/68f420d1-9118-48b5-ab43-2983e54d47a1" />
  - Project 1 Report
 
 ***
