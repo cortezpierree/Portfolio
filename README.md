@@ -1,5 +1,5 @@
 Cortez Stewart
-Contact Info: [fill in]
+Contact Info: Email: Cstewart4@loyola.edu 
 
 ### About Me 
 Hello! I am an experienced Epidemiologist and Health professional with over 4 years of experience of proven expertise in Health and Tracing and Tracking Diseases. 
@@ -11,13 +11,14 @@ My adaptable skill set, commitment to excellence, and passion for Music and Heal
 You can find me on LinkedIn, Instagram, and Twitter
 
 ### Education 
+BS.B.B.B Biology/Health
 Loyola University Maryland 
 
 ***
 ### Projects
 
 
-#### Project 1 Title
+#### Bi-Weekly Timesheet 
  - Project 1 Summary
  - [insert project 1 screenshot here]
  - Project 1 Report
