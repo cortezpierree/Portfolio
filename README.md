@@ -2,10 +2,16 @@ Cortez Stewart
 Contact Info: [fill in]
 
 ### About Me 
-[Fill in Madlibs here]
+Hello! I am an experienced Epidemiologist and Health professional with over 4 years of experience of proven expertise in Health and Tracing and Tracking Diseases. 
+
+With skills in Communications, eye-hand coordination, Efficiency, and determination, I can research and find new potential ends to outbreaks and achieve new data. I am adept at using Microsoft 365, more specifically Excel, Word, and PowerPoint. 
+
+My adaptable skill set, commitment to excellence, and passion for Music and Health positions me as a valuable asset. In my spare time, I like to play and read music. 
+
+You can find me on LinkedIn, Instagram, and Twitter
 
 ### Education 
-[Fill in Education here]
+Loyola University Maryland 
 
 ***
 ### Projects
