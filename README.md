@@ -27,12 +27,13 @@ Loyola University Maryland
 ***
 #### Project 2 Title
  - Project 2 Summary
- - [insert project 2 screenshot here]
+<img width="1680" alt="image" src="https://github.com/user-attachments/assets/6fb62054-ddb1-4398-bd1f-9bb131b95ae3" />
  - Project 2 Report
 
 ***
 #### Project 3 Title
  - Project 3 Summary
- - [insert project 3 screenshot here]
+<img width="1680" alt="image" src="https://github.com/user-attachments/assets/4221d9b5-6f50-4233-83c9-7db5ca8b3c81" />
+
  - Project 3 Report
 
