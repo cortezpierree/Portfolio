@@ -1,8 +1,8 @@
 ![Header](./images/github-header-image-2.png)
 
 
-Cortez Stewart
-Contact Info: Cstewart4@loyola.edu
+
+Contact Info: cstewart4@loyola.edu
 
 ### About Me 
 Hello! I am an experienced Epidemiologist and Health professional with over 4 years of experience of proven expertise in Health and Tracing and Tracking Diseases. 
