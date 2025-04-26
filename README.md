@@ -17,7 +17,7 @@ Loyola University Maryland
 ### Projects
 
 
-#### Project 1 Bi-weekly Timesheet
+#### Bi-weekly Timesheet
 <img width="1680" alt="image" src="https://github.com/user-attachments/assets/9bc5b491-3681-4300-80c3-d19f5a75fa32" />
 
  - Project 1 Summary; Designed and built a financial tracker using Excel to simplify salary and budget management. Focused on accuracy, automation, and data visualization.
