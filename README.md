@@ -1,4 +1,6 @@
 ![Header](./images/github-header-image-2.png)
+
+
 Cortez Stewart
 Contact Info: Cstewart4@loyola.edu
 
