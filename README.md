@@ -1,3 +1,4 @@
+![Header](./your-header-image-name.png)
 Cortez Stewart
 Contact Info: Cstewart4@loyola.edu
 
