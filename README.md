@@ -21,7 +21,7 @@ B.S.B.B.B
 Loyola University Maryland 
 
 
-<img width="250" alt="banner" src="images/Banner_image.png" />
+<img width="250" alt="banner" src="https://github.com/cortezpierree/Portfolio/blob/main/images/Banner_image.png" />
 
 ***
 
