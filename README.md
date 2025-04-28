@@ -1,6 +1,6 @@
 
 
-![image](https://github.com/user-attachments/assets/f5faa7bd-f420-4e1a-9377-4847b3185b7e)
+![Profile Pic](https://github.com/user-attachments/assets/f5faa7bd-f420-4e1a-9377-4847b3185b7e)
 
 
 
@@ -20,7 +20,11 @@ You can find me on LinkedIn, Instagram, and Twitter
 B.S.B.B.B
 Loyola University Maryland 
 
+
+<img width="250" alt="banner" src="https://github.com/user-attachments/assets/9bc5b491-3681-4300-80c3-d19f5a75fa32" />
+
 ***
+
 ### Projects
 
 
