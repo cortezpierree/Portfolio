@@ -20,6 +20,7 @@ You can find me on LinkedIn, Instagram, and Twitter
 B.S.B.B.B
 Loyola University Maryland 
 
+![image](https://github.com/user-attachments/assets/b4e66fb8-6924-4096-a1ef-2d0ef8460ba5)
 
 
 ***
