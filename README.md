@@ -14,7 +14,7 @@ With skills in Communications, eye-hand coordination, Efficiency, and determinat
 
 My adaptable skill set, commitment to excellence, and passion for Music and Health positions me as a valuable asset. In my spare time, I like to play and read music. 
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/cortez-stewart-bb3222272/), Instagram, and Twitter
+You can find me on [LinkedIn](https://www.linkedin.com/in/cortez-stewart-bb3222272/), [Instagram](https://www.instagram.com/cortezpierree/), and Twitter
 
 ### Education 
 B.S.B.B.B
